@@ -179,15 +179,15 @@ All gameplay parameters are defined as constants at the top of `main.py`:
 
 ## Screenshots
 
-![](FrDay13_I_1.png)
+![](FrDay13_III_1.png)
 
-![](FrDay13_I_2.png)
+![](FrDay13_III_2.png)
 
-![](FrDay13_I_3.png)
+![](FrDay13_III_3.png)
 
-![](FrDay13_I_4.png)
+![](FrDay13_III_4.png)
 
-![](FrDay13_I_5.png)
+![](FrDay13_III_5.png)
 
 ## Author
 
