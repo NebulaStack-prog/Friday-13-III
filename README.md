@@ -28,7 +28,7 @@
 
 * Create a small, complete, atmospheric game built around a single clear idea: **collect, survive, escape**.
 
-* Explore how far tension can be pushed with a minimal ruleset — no combat, no inventory, no menus full of stats.
+* Explore how far tension can be pushed with a minimal ruleset – no combat, no inventory, no menus full of stats.
 
 * Combine classic snake mechanics with real-time pathfinding AI in a way that feels fair rather than punishing.
 
@@ -36,7 +36,7 @@
 
 ## 🎮 Gameplay
 
-* The player moves on a 21×21 grid. Movement is discrete and timed — the snake advances one cell per step.
+* The player moves on a 21×21 grid. Movement is discrete and timed – the snake advances one cell per step.
 
 * Scattered across the map are **amulets**. Each amulet collected:
   – increases the score,
