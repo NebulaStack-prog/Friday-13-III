@@ -150,7 +150,7 @@ All gameplay parameters are defined as constants at the top of `main.py`:
 | `DASH_CD`           | Dash cooldown                                    |
 | `JASON_GROW_EVERY`  | Milliseconds between hunter growth ticks         |
 
-## Screenshots
+## 📷 Screenshots
 
 ![](FrDay13_III_1.png)
 
