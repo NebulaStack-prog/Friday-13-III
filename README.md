@@ -39,9 +39,9 @@
 * The player moves on a 21×21 grid. Movement is discrete and timed – the snake advances one cell per step.
 
 * Scattered across the map are **amulets**. Each amulet collected:
-  – increases the score,
-  – speeds up the hunter,
-  – and moves the player closer to the gate.
+  - increases the score,
+  - speeds up the hunter,
+  - and moves the player closer to the gate.
 
 * When all amulets are collected, the **gate** opens somewhere on the map. Reaching it wins the game.
 
