@@ -12,7 +12,7 @@
 
 * Friday the 13th. A dark camp. Something is moving between the trees, and it is not looking for a conversation.
 
-* **Friday 13: Escape** is a grid-based survival game built on classic snake mechanics. The player controls a snake-like figure moving through a fog-covered forest, hunting for amulets scattered across the map. Every amulet collected brings the player closer to the open gate – and makes the hunter faster.
+* **Friday 13 - III** is a grid-based survival game built on classic snake mechanics. The player controls a snake-like figure moving through a fog-covered forest, hunting for amulets scattered across the map. Every amulet collected brings the player closer to the open gate – and makes the hunter faster.
 
 * The hunter is not mindless. It tracks the player using pathfinding and grows every time enough time passes. What starts as a slow, distant threat turns into a predator that moves faster than the player. The forest is the only ally: trees block the hunter's path, but not yours.
 
@@ -21,8 +21,6 @@
 ## 🎯 Project Goal
 
 * Create a small, complete, atmospheric game built around a single clear idea: **collect, survive, escape**.
-
-* Explore how far tension can be pushed with a minimal ruleset – no combat, no inventory, no menus full of stats.
 
 * Combine classic snake mechanics with real-time pathfinding AI in a way that feels fair rather than punishing.
 
