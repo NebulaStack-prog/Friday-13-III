@@ -1,18 +1,12 @@
 # Friday 13 – III
 
-<p align="center">
-  <img src="FrDay13-III.jpg" alt="Friday 13: Escape Logo" width="450">
-</p>
+<img src="https://github.com/NebulaStack-prog/Friday-13-III/raw/main/FrDay13-III.jpg" width="200" height="230">
 
-<p align="center">
-  <strong>NS-022 · Product</strong>
-</p>
+* **ID:** NS-022
+  
+* **Status:** Product
 
 > **A survival horror snake game.** The night of Friday the 13th. A relentless hunter stalks the camp. Collect the amulets, open the gate, and escape – or become another name on the list.
-
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Pygame](https://img.shields.io/badge/Pygame-2.x-3DDC84?style=flat-square&logo=pygame)](https://www.pygame.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ## 📖 Overview
 
