@@ -1,4 +1,4 @@
-# Friday-13-III
+# Friday 13 – III
 
 <p align="center">
   <img src="FrDay13-III.png" alt="Friday 13: Escape Logo" width="450">
