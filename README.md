@@ -137,28 +137,9 @@ So the difficulty curve is fully player-driven: every amulet is a step forward a
 
 ## 💻 How to Run
 
-**1. Make sure Python 3.10+ is installed.**
+1. Go to the [**Releases**](https://github.com/NebulaStack-prog/Friday-13-III/releases/tag/v1.0.0) section of this repository.
    
-**2. Install Pygame:**
-
-```bash
-pip install pygame
-```
-
-**3. Run the game:**
-
-```bash
-python main.py
-```
-
-### Building a standalone executable (Windows)
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed --name "Friday13" main.py
-```
-
-The executable will appear in `dist/Friday13.exe`.
+2. Download the latest version of **`Friday13-III.exe`**.
 
 ## ⚙ Configuration
 
