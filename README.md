@@ -1,7 +1,7 @@
 # Friday 13 – III
 
 <p align="center">
-  <img src="FrDay13-III.png" alt="Friday 13: Escape Logo" width="450">
+  <img src="FrDay13-III.jpg" alt="Friday 13: Escape Logo" width="450">
 </p>
 
 <p align="center">
