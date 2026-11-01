@@ -137,14 +137,15 @@ So the difficulty curve is fully player-driven: every amulet is a step forward a
 
 ## 💻 How to Run
 
-1. Make sure Python 3.10+ is installed.
-2. Install Pygame:
+**1. Make sure Python 3.10+ is installed.**
+   
+**2. Install Pygame:**
 
 ```bash
 pip install pygame
 ```
 
-3. Run the game:
+**3. Run the game:**
 
 ```bash
 python main.py
@@ -175,18 +176,6 @@ All gameplay parameters are defined as constants at the top of `main.py`:
 | `DASH_TIME`         | Total dash duration                              |
 | `DASH_CD`           | Dash cooldown                                    |
 | `JASON_GROW_EVERY`  | Milliseconds between hunter growth ticks         |
-
-## 📊 Project Information
-
-| Property         | Value                             |
-| ---------------- | --------------------------------- |
-| Project          | Friday 13 - III                   |
-| Project ID       | NS-022                            |
-| Status           | Product                           |
-| Ecosystem        | NESTIMS                           |
-| Primary Language | Python                            |
-| Library          | Pygame                            |
-| Interface        | Graphical (desktop)               |
 
 ## Screenshots
 
