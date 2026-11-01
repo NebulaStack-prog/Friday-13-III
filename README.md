@@ -162,8 +162,4 @@ All gameplay parameters are defined as constants at the top of `main.py`:
 
 ![](FrDay13_III_5.png)
 
-## Author
-
-> *Technology, experimentation, and software development.*
-
 © NESTIMS
