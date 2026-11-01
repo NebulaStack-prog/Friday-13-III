@@ -160,6 +160,8 @@ All gameplay parameters are defined as constants at the top of `main.py`:
 
 ![](FrDay13_III_4.png)
 
+![](FrDay13_III_6.png)
+
 ![](FrDay13_III_5.png)
 
 © NESTIMS
