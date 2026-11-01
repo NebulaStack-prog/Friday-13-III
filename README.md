@@ -89,7 +89,7 @@
 
 * Custom dark-forest palette: layered greens for the ground, deep shadows for trees, warm gold for amulets, cold blue for the gate.
   
-* Trees are drawn as small volumetric objects — shadow, trunk, crown, and highlight – instead of flat circles.
+* Trees are drawn as small volumetric objects – shadow, trunk, crown, and highlight – instead of flat circles.
   
 * The hunter wears a hockey mask that **rotates to face its direction of movement**.
   
@@ -134,16 +134,6 @@ So the difficulty curve is fully player-driven: every amulet is a step forward a
 | Pygame        | Rendering, input, and the main game loop  |
 | `collections` | BFS queue for the hunter's pathfinding    |
 | `random`      | Tree, amulet, and gate placement          |
-
-## 📦 Project Structure
-
-```text
-Friday13-Escape/
-├── main.py          # The entire game: logic, rendering, and loop
-└── README.md
-```
-
-The game is intentionally contained in a single file. All configuration constants — grid size, cell size, timings, amulet count, tree count — sit at the top of `main.py` and can be tuned without touching the game logic.
 
 ## 💻 How to Run
 
